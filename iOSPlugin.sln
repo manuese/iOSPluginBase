@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1E0AB4EA-D322-D9B2-F71D-362D2448A8F5}") = "iOSPlugin", "Assembly-CSharp.csproj", "{E0F16C76-F3C0-5821-BFCA-C391FEDD2F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F16C76-F3C0-5821-BFCA-C391FEDD2F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F16C76-F3C0-5821-BFCA-C391FEDD2F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F16C76-F3C0-5821-BFCA-C391FEDD2F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F16C76-F3C0-5821-BFCA-C391FEDD2F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
